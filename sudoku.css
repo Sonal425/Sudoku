@@ -1,0 +1,13 @@
+
+td{
+	
+	height: 50px;
+	width:300px;
+}
+.input{
+height: 100%;
+
+}
+.table2 td:hover{
+	background-color: #ffa;
+}
