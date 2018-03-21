@@ -2,18 +2,16 @@ td{
 	
 	height: 50px;
 	width:200px;
-	text-align: center;
+	text-align: center; 
 }
-.input{
-height: 100%;
 
-}
 .table2 td:hover{
-	background-color: #ffa;
+	background-color: #ffa !important;
 }
 #table1{
 	margin-top: 2%;
 	margin-left: 27%;
+	background-color: white;
 }
 #buttons{
 
@@ -21,6 +19,15 @@ height: 100%;
 	margin-top: 3%;
 }
 p{
-	font-size: 400%;
+	font-size: 300%;
 	text-align: center;
+}
+#bg{
+	background-color:   #d7dbdd  ; 
+}
+.level{
+	margin-left: 3%;
+}
+#difficulty{
+	margin-left: 37%;
 }
