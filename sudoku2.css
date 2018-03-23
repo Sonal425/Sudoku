@@ -1,33 +1,31 @@
 td{
-	
-	height: 50px;
-	width:200px;
-	text-align: center; 
+  height: 50px;
+  width:200px;
+  text-align: center; 
 }
 
 .table2 td:hover{
-	background-color: #ffa !important;
+  background-color: #ffa !important;
 }
 #table1{
-	margin-top: 2%;
-	margin-left: 27%;
-	background-color: white;
+  margin-top: 2%;
+  margin-left: 27%;
+  background-color: white;
 }
 #buttons{
-
-	padding-left:32%;
-	margin-top: 3%;
+  padding-left:32%;
+  margin-top: 3%;
 }
 p{
-	font-size: 300%;
-	text-align: center;
+  font-size: 300%;
+  text-align: center;
 }
 #bg{
-	background-color:   #d7dbdd  ; 
+  background-color:   #d7dbdd  ; 
 }
 .level{
-	margin-left: 3%;
+  margin-left: 3%;
 }
 #difficulty{
-	margin-left: 37%;
+  margin-left: 37%;
 }
